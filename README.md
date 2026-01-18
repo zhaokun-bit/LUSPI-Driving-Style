@@ -3,6 +3,7 @@
 This repository maintains the project information and dataset details for the paper: **"Driving Style Recognition Like an Expert Using Semantic Privileged Information from Large Language Models"**.
 
 ## Abstract
+![Method Overview](framework.png)
 Existing driving style recognition systems largely depend on low-level sensor-derived features for training, neglecting the rich semantic reasoning capability inherent to human experts. To bridge this gap, we propose a novel framework that integrates Semantic Privileged Information (SPI) derived from large language models (LLMs). This framework introduces DriBehavGPT to generate natural-language descriptions of driving behaviors, which are encoded into machine learning-compatible representations via text embedding and dimensionality reduction. Finally, these semantics are incorporated as privileged information into SVM+ for training.
 
 ## Data Availability Statement
