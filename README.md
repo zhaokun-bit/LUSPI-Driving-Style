@@ -15,7 +15,7 @@ The car-following data were collected from large-scale naturalistic driving expe
 
 *   **Status:** 🔒 **Confidential / Under Embargo**
 *   **Reason:** The dataset is currently subject to a commercial confidentiality agreement (NDA) and strict data security regulations.
-*   **Release Plan:** We are committed to open science. This dataset is scheduled to be released in this repository upon the expiration of the confidentiality period (**Expected: After 2027**).
+*   **Release Plan:** We are committed to open science. This dataset is scheduled to be released in this repository upon the expiration of the confidentiality period.
 
 #### Data Structure Description
 Although the raw data cannot be shared at this moment, the processed kinematic features utilized in our LUSPI framework follow this format (CSV):
